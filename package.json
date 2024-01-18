@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@fuel-wallet/sdk": "^0.13.10",
+    "fuels": "^0.69.1"
+  },
+  "name": "petition-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
